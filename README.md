@@ -18,3 +18,5 @@ Tableau was used to present the data in meaningful ways. Five charts were create
 You can view the full dashboard of charts on my Tableau Public Profile: [Here](https://public.tableau.com/views/NYOpenCryptoAnalysis/CryptoNYOpen?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Sources
+[Link to Crypto API](https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest) used.
+The dataset used for the analysis is in the 'Dataset' folder.
