@@ -15,6 +15,6 @@ Other columns that were not to be used were removed, and column headers were sta
 ## Tableau
 Tableau was used to present the data in meaningful ways. Five charts were created to analyze the data. The first is a chart used to display and compare the percent change in value each currency experienced during the time period the data was collected. The next was a line chart to display the percent change in value each currency experienced over the course to the NY open session. There is also a ranking of the coin market cap of each coin. Lastly, two currencies are further explored see there price action over the course of the session.
 
-You can view the full dashboard of charts on my Tableau Public Profile (Here)[https://public.tableau.com/views/NYOpenCryptoAnalysis/CryptoNYOpen?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+You can view the full dashboard of charts on my Tableau Public Profile: [Here](https://public.tableau.com/views/NYOpenCryptoAnalysis/CryptoNYOpen?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Sources
