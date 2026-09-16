@@ -1,5 +1,6 @@
 # NY-Open-Crypto-Data-Analysis
 An analysis of 15 different Crypto currencies during the September 16, 2026 New York (NY) Market Open session.
+The Crypto currencies used were: Bitcoin, Ethereum, Tether USDt, BNB, XRP, USDC, Solana, TRON, Zcash, Hyperliquid, Dogecoin, Monero, UNUS SED LEO, Chainlink, and Cardano.
 
 This project was done in three different stages, using three different softwares: Python, Excel, and Tableau. 
 
