@@ -19,4 +19,5 @@ You can view the full dashboard of charts on my Tableau Public Profile: [Here](h
 
 ## Sources
 [Link to Crypto API](https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest) used.
-The dataset used for the analysis is in the 'Dataset' folder.
+
+The dataset used for the analysis is in the 'Dataset' folder under the name 'CryptoNYOpen.xlsx'.
